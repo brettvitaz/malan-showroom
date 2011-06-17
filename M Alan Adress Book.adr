@@ -1,0 +1,27 @@
+[Entries]
+Processor=tcp 192.168.111.99
+TPMC17-A=tcp 192.168.111.89
+TPS12-A=tcp 192.168.111.88
+TPS12-A (CNET)=Processor:cresnet 05
+TPS6L-A=tcp 192.168.111.87
+TPS6L-A (CNET)=Processor:cresnet 07
+TPS6X-A=tcp 192.168.111.86
+TPS6X-B=tcp 192.168.111.85
+Test Processor=tcp 192.168.111.96
+ML-600=rs232 1,115200,n,8,1,n,n;device ML-600
+
+[Settings]
+DefaultEntry=
+
+[Comments]
+Processor=
+TPMC17-A=
+TPS12-A=
+TPS12-A (CNET)=
+TPS6L-A=
+TPS6L-A (CNET)=
+TPS6X-A=
+TPS6X-B=
+Test Processor=
+ML-600=
+

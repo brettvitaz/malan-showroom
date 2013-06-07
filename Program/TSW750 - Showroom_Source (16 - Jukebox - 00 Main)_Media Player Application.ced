@@ -12,7 +12,7 @@ VTProeVer=5.2.20
 [
 ObjTp=Symbol
 Name=TSW750 - Showroom_Source (16 - Jukebox - 00 Main)_Media Player Application.ced
-Hint=Media Player Application (Smart Object ID = 0)
+Hint=Media Player Application (Smart Object ID = 161)
 Code=1
 SmplCName=TSW750 - Showroom_Source (16 - Jukebox - 00 Main)_Media Player Application.ced
 SMWRev=3.01.26
@@ -56,7 +56,7 @@ ObjTp=Dp
 H=1
 Tp=1
 HD=TRUE
-DV=0d
+DV=161d
 NF=1
 DNF=1
 EncFmt=0

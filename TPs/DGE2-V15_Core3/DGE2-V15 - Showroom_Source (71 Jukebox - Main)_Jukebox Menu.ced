@@ -6,15 +6,15 @@ ObjTp=FSgntr
 Sgntr=FlashComposite
 RelVrs=1
 IntStrVrs=1
-VTProeVer=5.2.20
+VTProeVer=5.2.21
 ]
 
 [
 ObjTp=Symbol
-Name=DGE2V15_Core3 - Kitchen_Source (71 Jukebox - List)_Jukebox List.ced
-Hint=Jukebox List (Smart Object ID = 721)
+Name=DGE2-V15 - Showroom_Source (71 Jukebox - Main)_Jukebox Menu.ced
+Hint=Jukebox Menu (Smart Object ID = 712)
 Code=1
-SmplCName=DGE2V15_Core3 - Kitchen_Source (71 Jukebox - List)_Jukebox List.ced
+SmplCName=DGE2-V15 - Showroom_Source (71 Jukebox - Main)_Jukebox Menu.ced
 SMWRev=3.01.26
 Expand=expand_random
 ; define the number of inputs, outputs and parameters
@@ -116,7 +116,7 @@ ObjTp=Dp
 H=1
 Tp=1
 HD=TRUE
-DV=721d
+DV=712d
 NF=1
 DNF=1
 EncFmt=0
@@ -128,7 +128,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=DGE2V15_Core3 - Kitchen_Source (71 Jukebox - List)_Jukebox List.ced
+Name=DGE2-V15 - Showroom_Source (71 Jukebox - Main)_Jukebox Menu.ced
 CedVer=1
 ]
 

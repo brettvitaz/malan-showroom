@@ -34,11 +34,11 @@ MaxVariableOutputsList3=0
 ; define the cues, and signal types  each input, output and parameter.
 InputCue1=[~UNUSED3~]
 InputSigType1=Digital
-OutputCue1=Item 0 Pressed
+OutputCue1=Item 1 Pressed
 OutputSigType1=Digital
 InputCue2=[~UNUSED3~]
 InputSigType2=Digital
-OutputCue2=Item 1 Pressed
+OutputCue2=Item 2 Pressed
 OutputSigType2=Digital
 InputList2Cue1=Select Item
 InputList2SigType1=Analog

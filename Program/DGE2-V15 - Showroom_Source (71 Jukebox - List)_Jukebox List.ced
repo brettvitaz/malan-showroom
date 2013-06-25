@@ -6,31 +6,31 @@ ObjTp=FSgntr
 Sgntr=FlashComposite
 RelVrs=1
 IntStrVrs=1
-VTProeVer=5.2.20
+VTProeVer=5.2.21
 ]
 
 [
 ObjTp=Symbol
-Name=DGE2V15_Core3 - Kitchen_Source (41 KScape - SATP - Main)_Kscape SATP List.ced
-Hint=Kscape SATP List (Smart Object ID = 412)
+Name=DGE2-V15 - Showroom_Source (71 Jukebox - List)_Jukebox List.ced
+Hint=Jukebox List (Smart Object ID = 721)
 Code=1
-SmplCName=DGE2V15_Core3 - Kitchen_Source (41 KScape - SATP - Main)_Kscape SATP List.ced
+SmplCName=DGE2-V15 - Showroom_Source (71 Jukebox - List)_Jukebox List.ced
 SMWRev=3.01.26
 Expand=expand_random
 ; define the number of inputs, outputs and parameters
-MinVariableInputs=8
-MaxVariableInputs=8
-MinVariableOutputs=8
-MaxVariableOutputs=8
+MinVariableInputs=6
+MaxVariableInputs=6
+MinVariableOutputs=6
+MaxVariableOutputs=6
 NumFixedParams=1
 MinVariableInputsList2=6
 MaxVariableInputsList2=6
 MinVariableOutputsList2=6
 MaxVariableOutputsList2=6
-MinVariableInputsList3=8
-MaxVariableInputsList3=8
-MinVariableOutputsList3=8
-MaxVariableOutputsList3=8
+MinVariableInputsList3=6
+MaxVariableInputsList3=6
+MinVariableOutputsList3=6
+MaxVariableOutputsList3=6
 ; define the cues, and signal types  each input, output and parameter.
 InputCue1=[~UNUSED3~]
 InputSigType1=Digital
@@ -56,14 +56,6 @@ InputCue6=[~UNUSED3~]
 InputSigType6=Digital
 OutputCue6=Item 6 Pressed
 OutputSigType6=Digital
-InputCue7=[~UNUSED3~]
-InputSigType7=Digital
-OutputCue7=Item 7 Pressed
-OutputSigType7=Digital
-InputCue8=[~UNUSED3~]
-InputSigType8=Digital
-OutputCue8=Item 8 Pressed
-OutputSigType8=Digital
 InputList2Cue1=Select Item
 InputList2SigType1=Analog
 OutputList2Cue1=[~UNUSED3~]
@@ -112,14 +104,6 @@ InputList3Cue6=Item 6 Text
 InputList3SigType6=Serial
 OutputList3Cue6=[~UNUSED3~]
 OutputList3SigType6=Serial
-InputList3Cue7=Item 7 Text
-InputList3SigType7=Serial
-OutputList3Cue7=[~UNUSED3~]
-OutputList3SigType7=Serial
-InputList3Cue8=Item 8 Text
-InputList3SigType8=Serial
-OutputList3Cue8=[~UNUSED3~]
-OutputList3SigType8=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
@@ -132,7 +116,7 @@ ObjTp=Dp
 H=1
 Tp=1
 HD=TRUE
-DV=412d
+DV=721d
 NF=1
 DNF=1
 EncFmt=0
@@ -144,7 +128,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=DGE2V15_Core3 - Kitchen_Source (41 KScape - SATP - Main)_Kscape SATP List.ced
+Name=DGE2-V15 - Showroom_Source (71 Jukebox - List)_Jukebox List.ced
 CedVer=1
 ]
 

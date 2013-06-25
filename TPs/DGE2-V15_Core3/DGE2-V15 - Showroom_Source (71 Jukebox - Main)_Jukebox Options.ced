@@ -6,22 +6,22 @@ ObjTp=FSgntr
 Sgntr=FlashComposite
 RelVrs=1
 IntStrVrs=1
-VTProeVer=5.2.20
+VTProeVer=5.2.21
 ]
 
 [
 ObjTp=Symbol
-Name=DGE2V15_Core3 - Kitchen_Source (31 Cable - Main)_Satellite Navigation.ced
-Hint=Satellite Navigation (Smart Object ID = 313)
+Name=DGE2-V15 - Showroom_Source (71 Jukebox - Main)_Jukebox Options.ced
+Hint=Jukebox Options (Smart Object ID = 711)
 Code=1
-SmplCName=DGE2V15_Core3 - Kitchen_Source (31 Cable - Main)_Satellite Navigation.ced
+SmplCName=DGE2-V15 - Showroom_Source (71 Jukebox - Main)_Jukebox Options.ced
 SMWRev=3.01.26
 Expand=expand_random
 ; define the number of inputs, outputs and parameters
-MinVariableInputs=5
-MaxVariableInputs=5
-MinVariableOutputs=5
-MaxVariableOutputs=5
+MinVariableInputs=6
+MaxVariableInputs=6
+MinVariableOutputs=6
+MaxVariableOutputs=6
 NumFixedParams=1
 MinVariableInputsList2=0
 MaxVariableInputsList2=0
@@ -34,24 +34,28 @@ MaxVariableOutputsList3=0
 ; define the cues, and signal types  each input, output and parameter.
 InputCue1=[~UNUSED3~]
 InputSigType1=Digital
-OutputCue1=Up
+OutputCue1=Tab Button 1 Press
 OutputSigType1=Digital
-InputCue2=[~UNUSED3~]
+InputCue2=Tab Button 1 Select
 InputSigType2=Digital
-OutputCue2=Right
+OutputCue2=[~UNUSED3~]
 OutputSigType2=Digital
 InputCue3=[~UNUSED3~]
 InputSigType3=Digital
-OutputCue3=Down
+OutputCue3=Tab Button 2 Press
 OutputSigType3=Digital
-InputCue4=[~UNUSED3~]
+InputCue4=Tab Button 2 Select
 InputSigType4=Digital
-OutputCue4=Left
+OutputCue4=[~UNUSED3~]
 OutputSigType4=Digital
 InputCue5=[~UNUSED3~]
 InputSigType5=Digital
-OutputCue5=OK
+OutputCue5=Tab Button 3 Press
 OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
@@ -64,7 +68,7 @@ ObjTp=Dp
 H=1
 Tp=1
 HD=TRUE
-DV=313d
+DV=711d
 NF=1
 DNF=1
 EncFmt=0
@@ -76,7 +80,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=DGE2V15_Core3 - Kitchen_Source (31 Cable - Main)_Satellite Navigation.ced
+Name=DGE2-V15 - Showroom_Source (71 Jukebox - Main)_Jukebox Options.ced
 CedVer=1
 ]
 

@@ -11,10 +11,10 @@ VTProeVer=5.2.21
 
 [
 ObjTp=Symbol
-Name=DGE2-V15 - Showroom_Source (17 Tuner - Main)_Tuner Keypad.ced
+Name=DGE2-V15 - Showroom_Source (16 - Tuner - Main)_Tuner Keypad.ced
 Hint=Tuner Keypad (Smart Object ID = 173)
 Code=1
-SmplCName=DGE2-V15 - Showroom_Source (17 Tuner - Main)_Tuner Keypad.ced
+SmplCName=DGE2-V15 - Showroom_Source (16 - Tuner - Main)_Tuner Keypad.ced
 SMWRev=3.01.26
 Expand=expand_random
 ; define the number of inputs, outputs and parameters
@@ -104,7 +104,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=DGE2-V15 - Showroom_Source (17 Tuner - Main)_Tuner Keypad.ced
+Name=DGE2-V15 - Showroom_Source (16 - Tuner - Main)_Tuner Keypad.ced
 CedVer=1
 ]
 

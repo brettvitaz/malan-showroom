@@ -11,10 +11,10 @@ VTProeVer=5.2.21
 
 [
 ObjTp=Symbol
-Name=DGE2-V15 - Showroom_Source (17 Tuner - Main)_Tuner Preset List.ced
+Name=DGE2-V15 - Showroom_Source (16 - Tuner - Main)_Tuner Preset List.ced
 Hint=Tuner Preset List (Smart Object ID = 172)
 Code=1
-SmplCName=DGE2-V15 - Showroom_Source (17 Tuner - Main)_Tuner Preset List.ced
+SmplCName=DGE2-V15 - Showroom_Source (16 - Tuner - Main)_Tuner Preset List.ced
 SMWRev=3.01.26
 Expand=expand_random
 ; define the number of inputs, outputs and parameters
@@ -152,7 +152,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=DGE2-V15 - Showroom_Source (17 Tuner - Main)_Tuner Preset List.ced
+Name=DGE2-V15 - Showroom_Source (16 - Tuner - Main)_Tuner Preset List.ced
 CedVer=1
 ]
 

@@ -6,22 +6,22 @@ ObjTp=FSgntr
 Sgntr=FlashComposite
 RelVrs=1
 IntStrVrs=1
-VTProeVer=5.2.21
+VTProeVer=5.3.03
 ]
 
 [
 ObjTp=Symbol
-Name=DGE2-V15 - Showroom_Source (71 Jukebox - Main)_Jukebox Transports.ced
-Hint=Jukebox Transports (Smart Object ID = 713)
+Name=DGE2-V15 - Showroom_Source (71 Jukebox2 - Main)_Jukebox2 Transports.ced
+Hint=Jukebox2 Transports (Smart Object ID = 723)
 Code=1
-SmplCName=DGE2-V15 - Showroom_Source (71 Jukebox - Main)_Jukebox Transports.ced
+SmplCName=DGE2-V15 - Showroom_Source (71 Jukebox2 - Main)_Jukebox2 Transports.ced
 SMWRev=3.01.26
 Expand=expand_random
 ; define the number of inputs, outputs and parameters
-MinVariableInputs=7
-MaxVariableInputs=7
-MinVariableOutputs=7
-MaxVariableOutputs=7
+MinVariableInputs=4
+MaxVariableInputs=4
+MinVariableOutputs=4
+MaxVariableOutputs=4
 NumFixedParams=1
 MinVariableInputsList2=6
 MaxVariableInputsList2=6
@@ -34,32 +34,20 @@ MaxVariableOutputsList3=0
 ; define the cues, and signal types  each input, output and parameter.
 InputCue1=[~UNUSED3~]
 InputSigType1=Digital
-OutputCue1=Item 1 Pressed
+OutputCue1=Item 0 Pressed
 OutputSigType1=Digital
 InputCue2=[~UNUSED3~]
 InputSigType2=Digital
-OutputCue2=Item 2 Pressed
+OutputCue2=Item 1 Pressed
 OutputSigType2=Digital
 InputCue3=[~UNUSED3~]
 InputSigType3=Digital
-OutputCue3=Item 3 Pressed
+OutputCue3=Item 2 Pressed
 OutputSigType3=Digital
 InputCue4=[~UNUSED3~]
 InputSigType4=Digital
-OutputCue4=Item 4 Pressed
+OutputCue4=Item 3 Pressed
 OutputSigType4=Digital
-InputCue5=[~UNUSED3~]
-InputSigType5=Digital
-OutputCue5=Item 5 Pressed
-OutputSigType5=Digital
-InputCue6=[~UNUSED3~]
-InputSigType6=Digital
-OutputCue6=Item 6 Pressed
-OutputSigType6=Digital
-InputCue7=[~UNUSED3~]
-InputSigType7=Digital
-OutputCue7=Item 7 Pressed
-OutputSigType7=Digital
 InputList2Cue1=Select Item
 InputList2SigType1=Analog
 OutputList2Cue1=[~UNUSED3~]
@@ -96,7 +84,7 @@ ObjTp=Dp
 H=1
 Tp=1
 HD=TRUE
-DV=713d
+DV=723d
 NF=1
 DNF=1
 EncFmt=0
@@ -108,7 +96,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=DGE2-V15 - Showroom_Source (71 Jukebox - Main)_Jukebox Transports.ced
+Name=DGE2-V15 - Showroom_Source (71 Jukebox2 - Main)_Jukebox2 Transports.ced
 CedVer=1
 ]
 

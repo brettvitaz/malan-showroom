@@ -11,10 +11,10 @@ VTProeVer=5.3.03
 
 [
 ObjTp=Symbol
-Name=TSW750 - Showroom_Main (00 - Home)_Climate Areas.ced
+Name=TSW1050 - Showroom_Main (00 - Home Subpage)_Climate Areas.ced
 Hint=Climate Areas (Smart Object ID = 31)
 Code=1
-SmplCName=TSW750 - Showroom_Main (00 - Home)_Climate Areas.ced
+SmplCName=TSW1050 - Showroom_Main (00 - Home Subpage)_Climate Areas.ced
 SMWRev=3.01.26
 Expand=expand_random
 ; define the number of inputs, outputs and parameters
@@ -88,7 +88,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=TSW750 - Showroom_Main (00 - Home)_Climate Areas.ced
+Name=TSW1050 - Showroom_Main (00 - Home Subpage)_Climate Areas.ced
 CedVer=1
 ]
 

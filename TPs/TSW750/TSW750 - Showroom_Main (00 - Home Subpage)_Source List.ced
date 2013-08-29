@@ -11,10 +11,10 @@ VTProeVer=5.3.03
 
 [
 ObjTp=Symbol
-Name=TSW1050 - Showroom_Main (00 - Home)_Source List.ced
+Name=TSW750 - Showroom_Main (00 - Home Subpage)_Source List.ced
 Hint=Source List (Smart Object ID = 1)
 Code=1
-SmplCName=TSW1050 - Showroom_Main (00 - Home)_Source List.ced
+SmplCName=TSW750 - Showroom_Main (00 - Home Subpage)_Source List.ced
 SMWRev=3.01.26
 Expand=expand_random
 ; define the number of inputs, outputs and parameters
@@ -104,7 +104,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=TSW1050 - Showroom_Main (00 - Home)_Source List.ced
+Name=TSW750 - Showroom_Main (00 - Home Subpage)_Source List.ced
 CedVer=1
 ]
 

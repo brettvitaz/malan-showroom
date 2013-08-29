@@ -11,10 +11,10 @@ VTProeVer=5.3.03
 
 [
 ObjTp=Symbol
-Name=TSW1050 - Showroom_Source (71 - Jukebox2 - Main)_Jukebox2 Transports.ced
-Hint=Jukebox2 Transports (Smart Object ID = 723)
+Name=TSW1050 - Showroom_Source (71 - Jukebox2 - Main)_Jukebox2 Transports_1.ced
+Hint=Jukebox2 Transports_1 (Smart Object ID = 723)
 Code=1
-SmplCName=TSW1050 - Showroom_Source (71 - Jukebox2 - Main)_Jukebox2 Transports.ced
+SmplCName=TSW1050 - Showroom_Source (71 - Jukebox2 - Main)_Jukebox2 Transports_1.ced
 SMWRev=3.01.26
 Expand=expand_random
 ; define the number of inputs, outputs and parameters
@@ -96,7 +96,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=TSW1050 - Showroom_Source (71 - Jukebox2 - Main)_Jukebox2 Transports.ced
+Name=TSW1050 - Showroom_Source (71 - Jukebox2 - Main)_Jukebox2 Transports_1.ced
 CedVer=1
 ]
 

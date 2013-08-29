@@ -6,8 +6,11 @@
   Sgntr=CresSPlus
   RelVrs=1
   IntStrVrs=1
-  SPlusVrs=4.02.15
+  SPlusVrs=4.02.21
   CrossCplrVrs=1.3
+[END]
+[BEGIN]
+  ObjTp=Hd
 [END]
 [BEGIN]
   ObjTp=Symbol
@@ -63,6 +66,7 @@
   SymJam=NonExclusive
   FileName=tstat temp display.csh
   SIMPLPlusModuleEncoding=0
+  Usl1=LutronHWI_Lib.usl
 [END]
 [BEGIN]
   ObjTp=Dp

@@ -1,6 +1,8 @@
 [Entries]
 Processor=tcp 192.168.112.99
 DGE2=tcp 192.168.112.89
+TSW1050=tcp 192.168.113.138
+TSW750=tcp 192.168.113.116
 
 [Settings]
 DefaultEntry=
@@ -8,4 +10,6 @@ DefaultEntry=
 [Comments]
 Processor=
 DGE2=
+TSW1050=
+TSW750=
 

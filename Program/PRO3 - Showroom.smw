@@ -8008,227 +8008,35 @@ ObjTp=Bk
 Nm1=\
 Sx1=0
 Sy1=0
-Mx1=1
-]
-[
-ObjTp=Bw
-H=1
-Lx=20
-Ly=20
-Rx=280
-Ry=220
-Xm=-1
-Ym=-1
-SH=2816
-Z=75
-P=2230
-Ht=3
-Hi=3
-]
-[
-ObjTp=Bw
-H=1
-Lx=20
-Ly=20
-Rx=280
-Ry=220
-Xm=-1
-Ym=-1
-SH=1278
-Z=75
-P=2230
-Ht=3
-Hi=3
-]
-[
-ObjTp=Bw
-H=1
-Lx=20
-Ly=20
-Rx=280
-Ry=220
-Xm=-1
-Ym=-1
-SH=2334
-Z=75
-P=380
-Ht=3
-Hi=73
-]
-[
-ObjTp=Bw
-H=1
-Lx=729
-Ly=600
-Rx=1458
-Ry=900
-Xm=-1
-Ym=-1
-SH=1580
-Z=75
-Ht=3
-Hi=1
-]
-[
-ObjTp=Bw
-H=1
-Lx=0
-Ly=400
-Rx=729
-Ry=800
-Xm=-1
-Ym=-1
-SH=1228
-Z=75
-Ht=4
-Hi=1
+Mx1=0
 ]
 [
 ObjTp=Bw
 H=1
 Lx=0
 Ly=0
-Rx=729
-Ry=400
+Rx=2097
+Ry=637
 Xm=-1
 Ym=-1
-SH=1841
+SH=1218
 Z=75
-P=11682
-Ht=1
-Hi=2492
+Ht=3
+Hi=8
 ]
 [
 ObjTp=Bw
 H=1
 Lx=0
-Ly=800
-Rx=729
-Ry=1200
+Ly=637
+Rx=2097
+Ry=1274
 Xm=-1
 Ym=-1
-SH=1214
+SH=5385
 Z=75
-P=63
-Ht=3
-Hi=2
-]
-[
-ObjTp=Bw
-H=1
-Lx=729
-Ly=0
-Rx=1458
-Ry=300
-Xm=-1
-Ym=-1
-SH=1216
-Z=75
-Ht=4
+Ht=1
 Hi=1
-]
-[
-ObjTp=Bw
-H=1
-Lx=729
-Ly=300
-Rx=1458
-Ry=600
-Xm=-1
-Ym=-1
-SH=1568
-Z=75
-P=117
-Ht=1
-Hi=24
-]
-[
-ObjTp=Bw
-H=1
-Lx=729
-Ly=900
-Rx=1458
-Ry=1200
-Xm=-1
-Ym=-1
-SH=2310
-Z=75
-P=100
-Ht=4
-Hi=16
-]
-[
-ObjTp=Bw
-H=1
-Lx=1458
-Ly=0
-Rx=2187
-Ry=300
-Xm=-1
-Ym=-1
-SH=1210
-Z=75
-P=300
-Ht=1
-Hi=33
-]
-[
-ObjTp=Bw
-H=1
-Lx=1458
-Ly=300
-Rx=2187
-Ry=600
-Xm=-1
-Ym=-1
-SH=2012
-Z=75
-P=12387
-Ht=4
-Hi=666
-]
-[
-ObjTp=Bw
-H=1
-Lx=1458
-Ly=600
-Rx=2187
-Ry=900
-Xm=-1
-Ym=-1
-SH=138
-Z=75
-Ht=4
-Hi=5
-]
-[
-ObjTp=Bw
-H=1
-Lx=1458
-Ly=900
-Rx=2187
-Ry=1200
-Xm=-1
-Ym=-1
-SH=2502
-Z=75
-Ht=4
-Hi=5
-]
-[
-ObjTp=Bw
-H=1
-Lx=20
-Ly=20
-Rx=280
-Ry=220
-Xm=-1
-Ym=-1
-SH=2352
-Z=75
-P=551
-Ht=3
-Hi=74
 ]
 [
 ObjTp=Et
@@ -52034,30 +51842,30 @@ tO=2
 O1=7673
 mP=26
 P1=
-P2=RSC 0 1 R\r
-P3=RSC 1 1 R\r
-P4=RSC 2 1 R\r
-P5=RSC 3 1 R\r
-P6=RSC 4 1 R\r
-P7=RSC 5 1 R\r
-P8=RSC 6 1 R\r
-P9=RSC 7 1 R\r
-P10=RSC 8 1 R\r
-P11=RSC 9 1 R\r
-P12=RSC 10 1 R\r
-P13=RSC 11 1 R\r
-P14=RSC 12 1 R\r
-P15=RSC 13 1 R\r
-P16=RSC 14 1 R\r
-P17=RSC 15 1 R\r
-P18=RSC 16 1 R\r
-P19=RSC 17 1 R\r
-P20=RSC 18 1 R\r
-P21=RSC 19 1 R\r
-P22=RSC 20 1 R\r
-P23=RSC 21 1 R\r
-P24=RSC 22 1 R\r
-P25=RSC 23 1 R\r
+P2=BPR 0 100 R\r
+P3=BPR 1 100 R\r
+P4=BPR 2 100 R\r
+P5=BPR 3 100 R\r
+P6=BPR 4 100 R\r
+P7=BPR 5 100 R\r
+P8=BPR 6 1 R\r
+P9=BPR 7 1 R\r
+P10=BPR 8 1 R\r
+P11=BPR 9 1 R\r
+P12=BPR 10 1 R\r
+P13=BPR 11 1 R\r
+P14=BPR 12 1 R\r
+P15=BPR 13 1 R\r
+P16=BPR 14 1 R\r
+P17=BPR 15 1 R\r
+P18=BPR 16 1 R\r
+P19=BPR 17 1 R\r
+P20=BPR 18 1 R\r
+P21=BPR 19 1 R\r
+P22=BPR 20 1 R\r
+P23=BPR 21 1 R\r
+P24=BPR 22 1 R\r
+P25=BPR 23 1 R\r
 P26=
 ]
 [
@@ -82172,6 +81980,30 @@ O245=6746
 O246=6747
 O247=6748
 O248=6749
+O250=34
+O251=58
+O252=2046
+O253=2047
+O254=2048
+O255=2054
+O256=2055
+O257=2056
+O258=2057
+O259=2058
+O260=2059
+O261=2060
+O262=2061
+O263=2062
+O264=2063
+O265=2064
+O266=2065
+O267=2066
+O268=2067
+O269=2068
+O270=2069
+O271=7670
+O272=7671
+O273=7672
 O300=6750
 O301=6752
 O302=6754
@@ -165755,11 +165587,13 @@ ObjTp=Sg
 H=33
 Nm=Spyder_From_Device$
 SgTp=4
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=34
 Nm=Spyder_Preset_01_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
@@ -165880,6 +165714,7 @@ Nm=UI-E_Any_Press
 ObjTp=Sg
 H=58
 Nm=Spyder_Preset_02_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
@@ -176374,16 +176209,19 @@ SgTp=4
 ObjTp=Sg
 H=2046
 Nm=Spyder_Preset_03_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2047
 Nm=Spyder_Preset_04_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2048
 Nm=Spyder_Preset_05_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
@@ -176415,81 +176253,97 @@ Nm=Area_01_RCVR_Main_Network_Preset_Is_23
 ObjTp=Sg
 H=2054
 Nm=Spyder_Preset_06_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2055
 Nm=Spyder_Preset_07_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2056
 Nm=Spyder_Preset_08_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2057
 Nm=Spyder_Preset_09_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2058
 Nm=Spyder_Preset_10_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2059
 Nm=Spyder_Preset_11_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2060
 Nm=Spyder_Preset_12_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2061
 Nm=Spyder_Preset_13_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2062
 Nm=Spyder_Preset_14_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2063
 Nm=Spyder_Preset_15_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2064
 Nm=Spyder_Preset_16_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2065
 Nm=Spyder_Preset_17_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2066
 Nm=Spyder_Preset_18_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2067
 Nm=Spyder_Preset_19_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2068
 Nm=Spyder_Preset_20_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=2069
 Nm=Spyder_Preset_21_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
@@ -205359,22 +205213,26 @@ Nm=MMS_[Player_A]_IR_Prev
 ObjTp=Sg
 H=7670
 Nm=Spyder_Preset_22_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=7671
 Nm=Spyder_Preset_23_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=7672
 Nm=Spyder_Preset_24_Select
+SgTf=Yes
 ]
 [
 ObjTp=Sg
 H=7673
 Nm=Spyder_To_Device$
 SgTp=4
+SgTf=Yes
 ]
 [
 ObjTp=Sg

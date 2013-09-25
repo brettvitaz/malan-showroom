@@ -6,15 +6,15 @@ ObjTp=FSgntr
 Sgntr=FlashComposite
 RelVrs=1
 IntStrVrs=1
-VTProeVer=5.3.12
+VTProeVer=5.3.15
 ]
 
 [
 ObjTp=Symbol
-Name=TSW1050 - IPAD_Main (00 - Home Subpage)_Climate Areas.ced
-Hint=Climate Areas (Smart Object ID = 31)
+Name=iPad - TSW750 - Showroom_Climate (01 - Main)_Button List Vertical.ced
+Hint=Button List Vertical (Smart Object ID = 31)
 Code=1
-SmplCName=TSW1050 - IPAD_Main (00 - Home Subpage)_Climate Areas.ced
+SmplCName=iPad - TSW750 - Showroom_Climate (01 - Main)_Button List Vertical.ced
 SMWRev=3.01.26
 Expand=expand_random
 ; define the number of inputs, outputs and parameters
@@ -27,10 +27,10 @@ MinVariableInputsList2=6
 MaxVariableInputsList2=6
 MinVariableOutputsList2=6
 MaxVariableOutputsList2=6
-MinVariableInputsList3=0
-MaxVariableInputsList3=0
-MinVariableOutputsList3=0
-MaxVariableOutputsList3=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
 ; define the cues, and signal types  each input, output and parameter.
 InputCue1=[~UNUSED3~]
 InputSigType1=Digital
@@ -64,6 +64,14 @@ InputList2Cue6=Set Num of Items
 InputList2SigType6=Analog
 OutputList2Cue6=[~UNUSED3~]
 OutputList2SigType6=Analog
+InputList3Cue1=Item 1 Text
+InputList3SigType1=Serial
+OutputList3Cue1=[~UNUSED3~]
+OutputList3SigType1=Serial
+InputList3Cue2=Item 2 Text
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
@@ -88,7 +96,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=TSW1050 - IPAD_Main (00 - Home Subpage)_Climate Areas.ced
+Name=iPad - TSW750 - Showroom_Climate (01 - Main)_Button List Vertical.ced
 CedVer=1
 ]
 

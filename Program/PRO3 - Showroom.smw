@@ -4,7 +4,7 @@ Version=1
 [
 ObjTp=FSgntr
 Sgntr=SimplWindow
-RelVrs=4.02.20
+RelVrs=4.02.38
 IntStrVrs=2
 MinSMWVrs=3.01.26
 MinTIOVrs=537
@@ -18,13 +18,13 @@ S0Nd=1
 S1Nd=2
 SLNd=3
 PrNm=PRO3 - Showroom.smw
-DbVr=41.05.006.00
-DvcDbVr=52.00.007.00
+DbVr=44.05.005.00
+DvcDbVr=55.05.004.00
 PgmNm=Brett Vitaz
 DlrNm=M Alan
 CltNm=Showroom
-SmVr=875
-DvVr=875
+SmVr=891
+DvVr=891
 TpN1=1
 TpN2=2
 TpN3=3
@@ -36,6 +36,7 @@ FpCS=0
 EnType=0
 ZeroOnIoOk=0
 PIT=Main
+SGMethod=2
 ]
 [
 ObjTp=Dv
@@ -2597,7 +2598,7 @@ DvC=2153
 ObjVer=1
 Ad=d8
 SmH=1275
-RelStat=Release
+RelStat=Discontinued
 ProdLine=Digital Media
 DbH=23
 CsH=14
@@ -8762,10 +8763,25 @@ Mx1=0
 [
 ObjTp=Bw
 H=1
-Lx=899
+Lx=0
 Ly=0
-Rx=1798
-Ry=1314
+Rx=702
+Ry=205
+Xm=-1
+Ym=-1
+SH=2755
+Z=100
+P=192
+Ht=3
+Hi=4
+]
+[
+ObjTp=Bw
+H=1
+Lx=0
+Ly=205
+Rx=702
+Ry=410
 Xm=-1
 Ym=-1
 SH=901
@@ -8777,9 +8793,9 @@ Hi=10
 ObjTp=Bw
 H=1
 Lx=0
-Ly=0
-Rx=899
-Ry=1314
+Ly=410
+Rx=702
+Ry=615
 Xm=-1
 Ym=-1
 SH=2064
@@ -152580,8 +152596,8 @@ mP=9
 P1=
 P2=0d
 P3=192.168.111.60
-P4=23d
-P5=Iphone
+P4=5679d
+P5=1234
 P6=1234
 P7=4d
 P8=0d
@@ -191831,6 +191847,8 @@ H=1
 SmH=138
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191838,6 +191856,8 @@ H=2
 SmH=139
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191845,6 +191865,8 @@ H=3
 SmH=1211
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191852,6 +191874,8 @@ H=4
 SmH=2723
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191859,6 +191883,8 @@ H=5
 SmH=888
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191866,6 +191892,8 @@ H=6
 SmH=2022
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191873,6 +191901,8 @@ H=7
 SmH=1201
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191880,6 +191910,8 @@ H=8
 SmH=1202
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191887,6 +191919,8 @@ H=9
 SmH=1569
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191894,6 +191928,8 @@ H=10
 SmH=1250
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191901,6 +191937,8 @@ H=11
 SmH=1270
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191908,6 +191946,8 @@ H=12
 SmH=1271
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191915,6 +191955,8 @@ H=13
 SmH=2018
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191922,6 +191964,8 @@ H=14
 SmH=2019
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191929,6 +191973,8 @@ H=15
 SmH=1220
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191936,6 +191982,8 @@ H=16
 SmH=1221
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191943,6 +191991,8 @@ H=17
 SmH=2064
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191950,6 +192000,8 @@ H=18
 SmH=2068
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191957,6 +192009,8 @@ H=19
 SmH=1212
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191964,6 +192018,8 @@ H=20
 SmH=2745
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191971,6 +192027,8 @@ H=21
 SmH=2746
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191978,6 +192036,8 @@ H=22
 SmH=2502
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191985,6 +192045,8 @@ H=23
 SmH=1842
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191992,6 +192054,8 @@ H=24
 SmH=2489
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -191999,6 +192063,8 @@ H=25
 SmH=1222
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192006,6 +192072,8 @@ H=26
 SmH=1223
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192013,6 +192081,8 @@ H=27
 SmH=2492
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192020,6 +192090,8 @@ H=28
 SmH=2507
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192027,6 +192099,8 @@ H=29
 SmH=2512
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192034,6 +192108,8 @@ H=30
 SmH=2517
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192041,6 +192117,8 @@ H=31
 SmH=2522
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192048,6 +192126,8 @@ H=32
 SmH=2547
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192055,6 +192135,8 @@ H=33
 SmH=2548
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192062,6 +192144,8 @@ H=34
 SmH=2694
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192069,6 +192153,8 @@ H=35
 SmH=2695
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192076,6 +192162,8 @@ H=36
 SmH=2696
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192083,6 +192171,8 @@ H=37
 SmH=2697
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192090,6 +192180,8 @@ H=38
 SmH=2698
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192097,6 +192189,8 @@ H=39
 SmH=2699
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192104,6 +192198,8 @@ H=40
 SmH=2700
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192111,6 +192207,8 @@ H=41
 SmH=2701
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192118,6 +192216,8 @@ H=42
 SmH=2702
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192125,6 +192225,8 @@ H=43
 SmH=2703
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192132,6 +192234,8 @@ H=44
 SmH=2704
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192139,6 +192243,8 @@ H=45
 SmH=2705
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192146,6 +192252,8 @@ H=46
 SmH=2706
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192153,6 +192261,8 @@ H=47
 SmH=2707
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192160,6 +192270,8 @@ H=48
 SmH=2708
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192167,6 +192279,8 @@ H=49
 SmH=2709
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192174,6 +192288,8 @@ H=50
 SmH=2710
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192181,6 +192297,8 @@ H=51
 SmH=2711
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192188,6 +192306,8 @@ H=52
 SmH=2712
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192195,6 +192315,8 @@ H=53
 SmH=2713
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192202,6 +192324,8 @@ H=54
 SmH=2714
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192209,6 +192333,8 @@ H=55
 SmH=2715
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192216,6 +192342,8 @@ H=56
 SmH=2724
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192223,6 +192351,8 @@ H=57
 SmH=2725
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192230,6 +192360,8 @@ H=58
 SmH=2726
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192237,6 +192369,8 @@ H=59
 SmH=2727
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192244,6 +192378,8 @@ H=60
 SmH=141
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192251,6 +192387,8 @@ H=61
 SmH=946
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192258,6 +192396,8 @@ H=62
 SmH=2844
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192265,6 +192405,8 @@ H=63
 SmH=2845
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192272,6 +192414,8 @@ H=64
 SmH=2846
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192279,6 +192423,8 @@ H=65
 SmH=2847
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192286,6 +192432,8 @@ H=66
 SmH=2848
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192293,6 +192441,8 @@ H=67
 SmH=2850
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192300,6 +192450,8 @@ H=68
 SmH=2851
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192307,6 +192459,8 @@ H=69
 SmH=2852
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192314,6 +192468,8 @@ H=70
 SmH=2853
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192321,6 +192477,8 @@ H=71
 SmH=2854
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192328,6 +192486,8 @@ H=72
 SmH=2855
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192335,6 +192495,8 @@ H=73
 SmH=2889
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192342,6 +192504,8 @@ H=74
 SmH=2890
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192349,6 +192513,8 @@ H=75
 SmH=2891
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192356,6 +192522,8 @@ H=76
 SmH=2892
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192363,6 +192531,8 @@ H=77
 SmH=2893
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192370,6 +192540,8 @@ H=78
 SmH=2894
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192377,6 +192549,8 @@ H=79
 SmH=2895
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192384,6 +192558,8 @@ H=80
 SmH=3103
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192391,6 +192567,8 @@ H=81
 SmH=3104
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192398,6 +192576,8 @@ H=82
 SmH=3105
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=CED
@@ -192405,6 +192585,8 @@ H=83
 SmH=3106
 CedVer=1
 CedMod=
+GUID=
+Hint=
 ]
 [
 ObjTp=Sg

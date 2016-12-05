@@ -1,23 +1,21 @@
 [
-Version=1
-]
-[
 ObjTp=FSgntr
 Sgntr=FlashComposite
-RelVrs=1
+;Increment this version when CED file format changes
+RelVrs=2
 IntStrVrs=1
-VTProeVer=5.3.19
+VTProeVer=5.5.08
 ]
-
 [
 ObjTp=Symbol
 Name=iPad - Xpanel - Showroom_Source (71 - Jukebox2 - Main)_Jukebox2 Transports_1.ced
-Hint=Jukebox2 Transports_1 (Smart Object ID = 723)
-Code=1
+Hint=Jukebox2 Transports_1 (Smart Object ID=723)
+Code=13
+GUID=DD06728E-CDF4-455F-A11E-CAB62F4FBBF2
 SmplCName=iPad - Xpanel - Showroom_Source (71 - Jukebox2 - Main)_Jukebox2 Transports_1.ced
-SMWRev=3.01.26
+SMWRev=4.02.19
 Expand=expand_random
-; define the number of inputs, outputs and parameters
+;Define the number of inputs, outputs and parameters
 MinVariableInputs=4
 MaxVariableInputs=4
 MinVariableOutputs=4
@@ -31,7 +29,7 @@ MinVariableInputsList3=0
 MaxVariableInputsList3=0
 MinVariableOutputsList3=0
 MaxVariableOutputsList3=0
-; define the cues, and signal types  each input, output and parameter.
+;Define the cues, and signal types  each input, output and parameter.
 InputCue1=[~UNUSED3~]
 InputSigType1=Digital
 OutputCue1=Item 1 Pressed
@@ -75,13 +73,14 @@ OutputList2SigType6=Analog
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=1
+Pp1=13
+CedH=13
+SmartObjId=723d
 ]
-
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=1
+H=13
 Tp=1
 HD=TRUE
 DV=723d
@@ -91,12 +90,12 @@ EncFmt=0
 DVLF=1
 Sgn=0
 ]
-
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=1
+H=13
 Name=iPad - Xpanel - Showroom_Source (71 - Jukebox2 - Main)_Jukebox2 Transports_1.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
 CedVer=1
 ]
-

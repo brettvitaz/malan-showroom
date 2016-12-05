@@ -1,23 +1,21 @@
 [
-Version=1
-]
-[
 ObjTp=FSgntr
 Sgntr=FlashComposite
-RelVrs=1
+;Increment this version when CED file format changes
+RelVrs=2
 IntStrVrs=1
-VTProeVer=5.3.19
+VTProeVer=5.5.08
 ]
-
 [
 ObjTp=Symbol
 Name=iPad - Xpanel - Showroom_Main (00 - Home Subpage)_Lighting Areas.ced
-Hint=Lighting Areas (Smart Object ID = 41)
-Code=1
+Hint=Lighting Areas (Smart Object ID=41)
+Code=16
+GUID=405386B9-2403-4640-BEF8-AA4A18AAC388
 SmplCName=iPad - Xpanel - Showroom_Main (00 - Home Subpage)_Lighting Areas.ced
-SMWRev=3.01.26
+SMWRev=4.02.19
 Expand=expand_random
-; define the number of inputs, outputs and parameters
+;Define the number of inputs, outputs and parameters
 MinVariableInputs=1
 MaxVariableInputs=1
 MinVariableOutputs=1
@@ -31,7 +29,7 @@ MinVariableInputsList3=0
 MaxVariableInputsList3=0
 MinVariableOutputsList3=0
 MaxVariableOutputsList3=0
-; define the cues, and signal types  each input, output and parameter.
+;Define the cues, and signal types  each input, output and parameter.
 InputCue1=[~UNUSED3~]
 InputSigType1=Digital
 OutputCue1=Item 1 Pressed
@@ -63,13 +61,14 @@ OutputList2SigType6=Analog
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=1
+Pp1=16
+CedH=16
+SmartObjId=41d
 ]
-
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=1
+H=16
 Tp=1
 HD=TRUE
 DV=41d
@@ -79,12 +78,12 @@ EncFmt=0
 DVLF=1
 Sgn=0
 ]
-
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=1
+H=16
 Name=iPad - Xpanel - Showroom_Main (00 - Home Subpage)_Lighting Areas.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
 CedVer=1
 ]
-
